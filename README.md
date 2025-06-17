@@ -66,3 +66,5 @@ A custom Docker image built using Jenkins and Docker.
 
 ## Acknowledgments
 This project demonstrates the synergy of cloud services and DevOps tools, showcasing practical applications of AWS, Jenkins, and Docker.
+
+aws instances.png
