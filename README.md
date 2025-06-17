@@ -31,7 +31,7 @@ SSH access to the Linux server for setting up Jenkins and Docker.
 ### 3. Jenkins Installed
 Jenkins successfully installed and running on the Linux server.
 
-![Jenkins Installed](images/jenkins-installed.png)
+![Jenkins Installed](https://github.com/shashank485/devops-portfolio/blob/main/jenkins.png)
 
 ---
 
