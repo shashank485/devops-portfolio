@@ -38,7 +38,7 @@ Jenkins successfully installed and running on the Linux server.
 ### 4. Docker Image Created
 A custom Docker image built using Jenkins and Docker.
 
-![Docker Image](images/docker-image.png)
+![Docker Image](https://github.com/shashank485/devops-portfolio/blob/main/docker%20image.png
 
 ---
 
