@@ -17,8 +17,8 @@ This project demonstrates setting up a CI/CD pipeline using *AWS EC2, **Jenkins,
 ### 1. EC2 Instance Setup
 This screenshot shows the EC2 instances configured for the project.
 
-![EC2 Instance Setup](aws instances.png)
-
+[![EC2 Instance Setup](aws instances.png)
+](https://github.com/shashank485/devops-portfolio/blob/main/aws%20instances.png)
 ---
 
 ### 2. SSH Connection
