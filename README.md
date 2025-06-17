@@ -24,7 +24,7 @@ This screenshot shows the EC2 instances configured for the project.
 ### 2. SSH Connection
 SSH access to the Linux server for setting up Jenkins and Docker.
 
-![SSH Connection](images/ssh-connection.png)
+![SSH Connection](https://github.com/shashank485/devops-portfolio/blob/main/mobaxtrem.png)
 
 ---
 
